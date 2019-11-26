@@ -1,4 +1,4 @@
-# Face-de-occlusion
+# Face de-occlusion
 Face de-occlusion using 3d morphable model and generative adversarial network
 
 ## Feature
