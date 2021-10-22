@@ -16,7 +16,7 @@ A novel method is proposed to restore de-occluded face images based on the use o
 If you are interested in this work, you can download: 
 
 **Dataset** [[baidu drive](https://pan.baidu.com/s/1UGLKejmFkaYiVEnVwNwZsQ)] [[google drive](https://drive.google.com/open?id=1gphxJ-d9KeX3oI-jJdG2PL9HYrPF7IKd)]
-**Code** [[baidu drive](https://pan.baidu.com/s/1U6WXiEvdY1fQ8H3MsdOQwg)] password: 2ub4
+**Experimental Result** [[baidu drive](https://pan.baidu.com/s/1U6WXiEvdY1fQ8H3MsdOQwg)] password: 2ub4
 
 **Code** [coming soon]
 
